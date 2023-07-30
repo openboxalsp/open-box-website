@@ -8,6 +8,7 @@ export function InputFile() {
             <Input
                 id="file"
                 type="file"
+                className="file:bg-blue-50 file:text-blue-700 hover:file:bg-blue-100"
             />
         </div>
     );
